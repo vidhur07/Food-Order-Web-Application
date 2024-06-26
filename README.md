@@ -31,7 +31,6 @@ JWT (JSON Web Tokens)
 *Payment Gateway:*
 Integration with Stripe for secure payment processing
 
-"Installation"
-Clone the repository:
-git clone https://github.com/yourusername/food-ordering-website.git
-cd food-ordering-website
+"Contact"
+For any questions or suggestions, feel free to reach out:
+Email: vidhur9487@gmail.com
